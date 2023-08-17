@@ -1,4 +1,4 @@
-altura =float(input("digite a sua altura:"))
+altura = float(input("digite a sua altura:"))
 peso = float(input("digite o seu peso: "))
 imc = peso / altura*2
 print("Seu IMC é: %.4f" % imc)

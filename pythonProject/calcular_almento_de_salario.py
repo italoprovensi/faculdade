@@ -22,6 +22,6 @@ elif salario_original > 1500.00:
     aumento = salario_original * 0.05
 
 print("O salário antes do reajuste:", salario_original)
-print("O percentual de aumento aplicado",porcentagem)
-print("O valor do aumento",aumento)
-print("novo salário, após o aumento",salario_desconto)
+print("O percentual de aumento aplicado", porcentagem)
+print("O valor do aumento", aumento)
+print("novo salário, após o aumento", salario_desconto)
